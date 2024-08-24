@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookdetails SYSTEM "book.dtd">
+<?xml-stylesheet type="text/xsl" href="example.xsl"?>
+<bookdetails>
+<book>
+<title>ONE PEICE</title>
+<author>ODA SENSAI</author>
+
+<publisher>Toel Animation</publisher>
+<edition>1st</edition>
+<price>$80.23</price>
+</book>
+<book>
+<title>BLEACH</title>
+<author>TITE KUBO</author>
+
+<publisher>TV Animation</publisher>
+<edition>1st</edition>
+<price>$60.23</price>
+</book>
+<book>
+<title>DRAGON BALL</title>
+<author>AKIRA TORIYAMA</author>
+
+<publisher>Toel Animation</publisher>
+<edition>1st</edition>
+<price>$200.90</price>
+</book>
+<book>
+<title>NARUTO</title>
+<author>MASASHI KISHIMOTO</author>
+<publisher>Pierrot Animation</publisher>
+<edition>1st</edition>
+<price>$150.23</price>
+</book>
+</bookdetails>
